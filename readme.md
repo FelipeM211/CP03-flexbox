@@ -26,7 +26,7 @@ Página web para a Vinharia Agnello, feita para o Checkpoint 03 de Front-End, co
 
 
 ## Links 
-🔗 link github: https://github.com/FelipeMurad211/checkpoint03-flexbox](https://github.com/FelipeM211/CP03-flexbox
+🔗 link github: https://github.com/FelipeM211/CP03-flexbox
 
 🌐 Link GitHub Pages: https://seu-usuario.github.io/checkpoint03-flexbox](https://felipem211.github.io/CP03-flexbox/
 
