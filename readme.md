@@ -1,6 +1,6 @@
 # Checkpoint 03 - Vinharia Agnello 🍷
 
-**Felipe Balbino Murad RM - 562347:** 
+**Felipe Balbino Murad RM - 562347** 
 
 ## Descrição do Projeto
 Página web para a Vinharia Agnello, feita para o Checkpoint 03 de Front-End, com foco em:
@@ -29,4 +29,6 @@ Página web para a Vinharia Agnello, feita para o Checkpoint 03 de Front-End, co
 🔗 link github: https://github.com/FelipeM211/CP03-flexbox
 
 🌐 Link GitHub Pages: https://felipem211.github.io/CP03-flexbox/
+
+Não consegui fazer na estrutura que voce pediu para enviar, o link do github pages so abria o README, ai tive que mudar para como esta agora
 
