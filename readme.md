@@ -25,12 +25,8 @@ Página web para a Vinharia Agnello, feita para o Checkpoint 03 de Front-End, co
 - `transform: rotate()` e `translate()` nos cards
 
 
-## Links Importantes
-🔗 [Repositório no GitHub](https://github.com/FelipeMurad211/checkpoint03-flexbox)
+## Links 
+🔗 link github: https://github.com/FelipeMurad211/checkpoint03-flexbox](https://github.com/FelipeM211/CP03-flexbox
 
-🌐 [Site publicado no GitHub Pages](https://seu-usuario.github.io/checkpoint03-flexbox)
+🌐 Link GitHub Pages: https://seu-usuario.github.io/checkpoint03-flexbox](https://felipem211.github.io/CP03-flexbox/
 
-## Como Executar Localmente
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/checkpoint03-flexbox.git
